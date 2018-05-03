@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Chelsea Market";
-  src: url("../../../fonts/ChelseaMarket-Regular.ttf");
+  src: url("../../../../fonts/ChelseaMarket-Regular.ttf");
   font-weight: 400;
 }
 body {
@@ -71,6 +71,7 @@ h1, h2, h3 {
   left: 2vh;
   top: 2vh;
   color: #fff;
+  z-index: 1000;
 }
 
 .enllac-retorn:hover {

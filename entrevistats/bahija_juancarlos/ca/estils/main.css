@@ -71,6 +71,7 @@ h1, h2, h3 {
   left: 2vh;
   top: 2vh;
   color: #fff;
+  z-index: 1000;
 }
 
 .enllac-retorn:hover {
