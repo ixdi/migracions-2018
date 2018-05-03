@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Chelsea Market";
+  src: url("../../../../fonts/ChelseaMarket-Regular.ttf");
+  font-weight: 400;
+}
 body {
   font-family: 'Chelsea Market', cursive;
   font-weight: 400;
